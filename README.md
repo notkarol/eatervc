@@ -1,6 +1,9 @@
 # eatervc
 
-This repository contains the code and data for replicating the paper entited "An Embodied Approach for Evolving Robust Visual Classifiers"
+This repository contains the code and data for replicating the paper entited "An Embodied Approach for Evolving Robust 
+Visual Classifiers"
+
+Additionally, the talk given at GECCO 2015 can be found in the following link. Please be sure to enable captions as the audio can be hard to hear. https://www.youtube.com/watch?v=YKW8ZJPxBlQ
 
 All images and LaTeX files used to generate the PDF are included in the latex folder of this repository.
 
