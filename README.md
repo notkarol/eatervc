@@ -7,6 +7,7 @@ Additionally, the talk given at GECCO 2015 can be found in the following link. P
 
 All images and LaTeX files used to generate the PDF are included in the latex folder of this repository.
 
+Also, I've written a simple step-by-step guide for reproducing this work in Bullet: https://www.reddit.com/r/ludobots/comments/3jy8x9/project_reproducing_an_embodied_approach_for/
 
 Non-Data Figures:
 
